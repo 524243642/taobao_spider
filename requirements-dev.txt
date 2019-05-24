@@ -1,0 +1,4 @@
+Opy==1.1.28
+pyminifier==2.1
+PyInstaller==3.4
+PyInstaller-Hooks==20190108

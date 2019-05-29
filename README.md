@@ -1,7 +1,7 @@
-# mall_spider
+# taobao_spider
 
 #### 项目介绍
-mall spider
+taobao spider
 
 #### 软件架构
 软件架构说明

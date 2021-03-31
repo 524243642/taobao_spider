@@ -18,7 +18,7 @@ greenlet==0.4.15
 hyperlink==18.0.0
 idna==2.7
 incremental==17.5.0
-lxml==4.2.5
+lxml==4.6.3
 macholib==1.11
 mysql-connector==2.1.6
 mysqlclient==1.4.1

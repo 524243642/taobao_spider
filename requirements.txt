@@ -42,7 +42,7 @@ pytz==2018.7
 queuelib==1.5.0
 redis==2.10.6
 requests==2.20.0
-Scrapy==1.5.1
+Scrapy==2.6.2
 selenium==3.14.1
 service-identity==17.0.0
 shutilwhich==1.1.0
